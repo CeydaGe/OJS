@@ -40,13 +40,24 @@ background-color: rgb(44, 62, 80) !important;
     font-size: 2.75rem;
     line-height: 2.75rem;
 }
+.masthead .masthead-subheading{
+
+    font-size: 1.25rem;
+}
 .mb-5{
 
     margin-bottom: 3rem !important;
 }
+.mb-0{
 
-img, svg{
+    margin-bottom: 0 !important;
+}
+.mt-4{
+
+    margin-top: 1.5rem !important;
+}
+/* img, svg{
     overflow-clip-margin: content-box;
     overflow: clip;
     vertical-align: middle;
-}
+} */
