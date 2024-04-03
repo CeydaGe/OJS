@@ -1,0 +1,52 @@
+*{
+
+    box-sizing: border-box;
+}
+
+a.navbar-brand{
+
+    color: #fff !important;
+}
+
+#main-nav{
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 700;
+}
+
+.bg-secondary{
+background-color: rgb(44, 62, 80) !important;
+
+}
+.bg-primary{
+
+    background-color: rgb(26, 188, 156) !important;
+}
+/* IconClass */
+
+.masthead{
+
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+}
+
+.masthead .masthead-avatar{
+    width: 15rem;
+}
+
+.masthead .masthead-heading{
+
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+}
+.mb-5{
+
+    margin-bottom: 3rem !important;
+}
+
+img, svg{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    vertical-align: middle;
+}
