@@ -61,6 +61,27 @@ background-color: rgb(44, 62, 80) !important;
 
     padding: 6rem 0;
 }
+
+.lead{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.btn-xl{
+
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+
+.footer-link{
+
+    color: rgb(26, 188, 156);
+}
+
+.copyright{
+
+    background-color:rgb(26, 37, 47);
+}
 /* img, svg{
     overflow-clip-margin: content-box;
     overflow: clip;
