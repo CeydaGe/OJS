@@ -56,6 +56,11 @@ background-color: rgb(44, 62, 80) !important;
 
     margin-top: 1.5rem !important;
 }
+
+.page-section{
+
+    padding: 6rem 0;
+}
 /* img, svg{
     overflow-clip-margin: content-box;
     overflow: clip;
